@@ -7,7 +7,6 @@ server:
 spring:
   application:
     name: java-practice
-    version: 1.0.0
   devtools:
     remote:
       proxy:
@@ -52,11 +51,6 @@ spring:
     console:
       enabled: true
 
-springdoc:
-  cashe:
-    disabled: true
-  api-docs:
-    enabled: true
 # log
 #logging:
 #  level:
