@@ -11,7 +11,7 @@ spring:
     remote:
       proxy:
         host: localhost
-#        port: 8080
+        port: 8080
       restart:
         enabled: true
     livereload:         # Hot Reload
